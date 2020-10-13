@@ -1,6 +1,6 @@
 baseURL: "https://maxencedruffin.netlify.app/"
 languageCode: "en-us"
-title: "Menu principale"
+title: "Menu principal"
 
 module:
   imports:
