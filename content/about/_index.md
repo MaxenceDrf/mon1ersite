@@ -4,7 +4,7 @@ description: 'Bienvenue sur mon portfolio, moi c'est Maxence Druffin ! J'ai actu
 featured_image: ''
 
 ---
-{{< figure src="/images/maxencedrf.png" title="Maxence DRUFFIN" >}}
+
 
 _2020 : Baccalauréat Scientifique - Franqueville Saint Pierre
 Spécialité Science de l’ingénieur
