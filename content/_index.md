@@ -1,6 +1,6 @@
 ---
 title: 'Mon portfolio'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/dw.jpg"
 description: Venez me découvrir
 
 ---
