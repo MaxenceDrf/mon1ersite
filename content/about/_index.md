@@ -4,8 +4,11 @@ description: 'Bienvenue sur mon portfolio'
 featured_image: ''
 
 ---
+{{< figure src="/images/maxencedrf.png" title="Maxence DRUFFIN" >}}
 
-2020 : Baccalauréat Scientifique - Franqueville Saint Pierre
+moi c'est Maxence Druffin ! J'ai actuellement 18 ans et je sors d'un bac S. actuellement je me dirige vers des études de développement informatique.
+
+_2020 : Baccalauréat Scientifique - Franqueville Saint Pierre
 Spécialité Science de l’ingénieur
 Obtenu mention européenne
 
