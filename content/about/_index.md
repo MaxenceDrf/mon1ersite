@@ -8,7 +8,7 @@ featured_image: ''
 
 Salut ! Moi c'est Maxence Druffin, j'ai actuellement 18 ans et je sors d'un bac S. Actuellement je me dirige vers des études de développement informatique.
 
-2020 : 
+{{<strong> 2020 : </strong>}}
 - Baccalauréat Scientifique - Franqueville Saint Pierre
 - Spécialité Science de l’ingénieur
 - Obtenu mention européenne
