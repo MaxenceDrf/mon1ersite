@@ -1,9 +1,9 @@
 ---
 date: 2017-04-14T11:25:05.000-04:00
-description: Esmeralda
-featured_image: "/images/esmeralda.jpg"
+description: Esport
+featured_image: "/images/RL.jpg"
 tags: []
-title: 'Chapter VI: Esmeralda'
+title: 'Partie esport : Rocket league'
 disable_share: false
 
 ---
