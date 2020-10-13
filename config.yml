@@ -1,6 +1,6 @@
 baseURL: "https://maxencedruffin.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Menu principale"
 
 module:
   imports:
