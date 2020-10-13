@@ -1,11 +1,18 @@
 ---
 title: About
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
+description: 'Bienvenue sur mon portfolio, moi c'est Maxence Druffin ! J'ai actuellement 18 ans et je sors d'un bac S. actuellement je me dirige vers des études de développement informatique.'
 featured_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/maxencedrf.png" title="Maxence DRUFFIN" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_2020 : Baccalauréat Scientifique - Franqueville Saint Pierre
+Spécialité Science de l’ingénieur
+Obtenu mention européenne
+
+2019 : -Brevet D’initiation Aéornautique 
+- Cambridge English test, Obtenu avec niveau B1
+
+2017 : Brevet des collèges - Boos
+Obtenu avec mention bien
++ formation PSC1 (sauveteur).
